@@ -22,3 +22,4 @@ after_success:
   - docker push manjishri/multi-nginx
   - docker push manjishri/multi-server
   - docker push manjishri/multi-worker
+
